@@ -928,9 +928,9 @@ nav.citynav#mainNav .navbar-nav .nav-item .nav-link:hover {
     padding: 200px 0;
   }
   header.masthead .intro-text .intro-heading {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 800;
-    line-height: 90px;
+    line-height: 80px;
   }
 }
 .feature-cites {
