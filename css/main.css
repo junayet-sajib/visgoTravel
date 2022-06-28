@@ -915,7 +915,7 @@ nav.citynav#mainNav .navbar-nav .nav-item .nav-link:hover {
   }
 
   header.masthead {
-    padding-top: 150px;
+    padding-top: 76px;
   }
   header.masthead .intro-text .intro-heading {
     font-size: 50px;
@@ -925,12 +925,16 @@ nav.citynav#mainNav .navbar-nav .nav-item .nav-link:hover {
 }
 @media (max-width: 991px) {
   header.masthead .intro-text {
-    padding: 200px 0;
+    padding: 120px 0;
+    
   }
   header.masthead .intro-text .intro-heading {
     font-size: 70px;
     font-weight: 800;
     line-height: 80px;
+  }
+  .hero-left-img{
+  display: none;
   }
 }
 .feature-cites {
